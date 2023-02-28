@@ -1,13 +1,12 @@
 # Code of churn customer rate analysis.
-![Churn-rate](https://user-images.githubusercontent.com/37702071/221876572-4947f71c-7a32-4c7c-b77a-26bc913a9162.jpg)
+<img src= "https://user-images.githubusercontent.com/37702071/221876572-4947f71c-7a32-4c7c-b77a-26bc913a9162.jpg" width = 650, height = 400>
 
 
 What is Churn? Churn is a measurement of the percentage of accounts that cancel or choose not to renew their subscriptions. 
 A high churn rate can negatively impact Monthly Recurring Revenue (MRR) and can also indicate dissatisfaction with a product or service. Understaing the factors that are causing this situation is crutial and can help the company to adopt certain measures that will decrease the churn rate. 
 
 
-![629e85082dc8498508bd7cd7_210903-5-Ways-Predictive-Analytics-Improves-Customer-Retention-Main](https://user-images.githubusercontent.com/37702071/221886306-f3a19a33-5f1f-49e9-9711-4e2fc407abc8.png) 
-Source: Lexer
+<img src= "https://user-images.githubusercontent.com/37702071/221886306-f3a19a33-5f1f-49e9-9711-4e2fc407abc8.png" width = 500, height = 300> Source: Lexer
 
 
 One of the ways of analysing this is through Data Science/Data Analysis. Understanding the correlations and casualities among customers and services offered that lead to cancellations allied to predictive models can help the company develop solutions to avoid potential churn customers to seek services of company's competitors.
